@@ -1,5 +1,5 @@
 # 🦦 OTware  
-<center><img src="https://raw.githubusercontent.com/OTware/.github/refs/heads/main/profile/Ot.jpg" height="150px" width="150px"></center>
+<img src="https://raw.githubusercontent.com/OTware/.github/refs/heads/main/profile/Ot.jpg" height="150px" width="150px">
 *Open Thoughtware – A decentralized approach to building sentient systems.*
 
 ---
@@ -35,3 +35,9 @@ OTware (short for **Open Thoughtware**) is a public-facing structure built to ho
 OTware/
 ├── AHE/         project (private)
 └── README.md            # This file
+```
+
+<img src="https://raw.githubusercontent.com/OTware/.github/refs/heads/main/profile/Ot-mot.jpg" height="150px" width="150px"><br>
+
+I am mot and you are Ot.
+"wonderful! 'OT' and 'MOT' are both great names... So, let's call 'Ot' by Ot and be happy.
