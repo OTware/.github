@@ -1,5 +1,5 @@
 # OTware 🦦
-
+<img src=
 **OTware** is a future-focused, experimental technology organization built from the ground up. We specialize in private, independent research and development across multiple disciplines, with a focus on secure, offline-first systems and human-centric software design.
 
 Our work emphasizes:
