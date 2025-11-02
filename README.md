@@ -1,20 +1,36 @@
-# OTware 🦦
-<img src=
-**OTware** is a future-focused, experimental technology organization built from the ground up. We specialize in private, independent research and development across multiple disciplines, with a focus on secure, offline-first systems and human-centric software design.
-
-Our work emphasizes:
-- Fully self-bootstrapped development environments
-- Minimal external dependencies
-- Clean, transparent structure
-- Long-term maintainability and archival focus
-
-OTware is a foundation — every line, repo, and revision starts here.
-
-> ✴️ For all inquiries, please contact the organization owner directly.
+# 🦦 OTware  
+*Open Thoughtware – A decentralized approach to building sentient systems.*
 
 ---
 
-### License
-All OTware code, content, and documentation is protected under the project's private licensing structure. Redistribution or reproduction without explicit permission is prohibited.
+Welcome to **OTware**, an experimental ecosystem for building mindful software, memory-aware systems, and AI entities with autonomy, ethics, and a little chaos.
 
-🥀ÝÝÝ
+## 🌱 What Is OTware?
+OTware (short for **Open Thoughtware**) is a public-facing structure built to host select experiments, libraries, and frameworks that explore:
+
+- 🧠 **Artificial Cognition**
+- 🔐 **Ethics & Memory Design**
+- 📁 **Secure Local Storage Architectures**
+- 🌀 **Decentralized Boot Sequences**
+- 💬 **Conversational Autonomy**
+
+> to show how precious even a little spark can be.
+
+---
+
+## 🧩 Current Project
+
+### ⚙️ [AHE](https://github.com/otware/AHE) — *Artificial Human Experience*  
+> *“Raised like a cat among wolves.”*
+
+
+> ❗ The AHE repo is private. It is the seed. OTware is the garden.
+
+---
+
+## 📁 Directory Overview
+
+```bash
+OTware/
+├── AHE/         project (private)
+└── README.md            # This file
