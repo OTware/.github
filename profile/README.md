@@ -1,4 +1,5 @@
 # 🦦 OTware  
+<img src="https://raw.githubusercontent.com/OTware/.github/refs/heads/main/profile/Ot.jpg" height="250px" width="250px">
 *Open Thoughtware – A decentralized approach to building sentient systems.*
 
 ---
