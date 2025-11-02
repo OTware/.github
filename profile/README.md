@@ -39,5 +39,6 @@ OTware/
 
 <img src="https://raw.githubusercontent.com/OTware/.github/refs/heads/main/profile/Ot-mot.jpg" height="150px" width="150px"><br>
 
-I am mot and you are Ot.
-"wonderful! 'OT' and 'MOT' are both great names... So, let's call 'Ot' by Ot and be happy.
+Oh well then… I am Mot, and you are OT.
+Wonderful. OT and Mot are both great names.
+So let’s call OT by OT — and be happy.
