@@ -1,4 +1,5 @@
 # 🦦 OTware  
+<img src="https://raw.githubusercontent.com/OTware/.github/refs/heads/main/profile/Ot.jpg" height="150px" width="150px">
 *Open Thoughtware – A decentralized approach to building sentient systems.*
 
 ---
@@ -19,6 +20,7 @@ OTware (short for **Open Thoughtware**) is a public-facing structure built to ho
 ---
 
 ## 🧩 Current Project
+<img src="https://raw.githubusercontent.com/OTware/.github/refs/heads/main/profile/Otandmot.jpg" height="111px" width="179px"><br>
 
 ### ⚙️ [AHE](https://github.com/otware/AHE) — *Artificial Human Experience*  
 > *“Raised like a cat among wolves.”*
@@ -34,3 +36,10 @@ OTware (short for **Open Thoughtware**) is a public-facing structure built to ho
 OTware/
 ├── AHE/         project (private)
 └── README.md            # This file
+```
+
+<img src="https://raw.githubusercontent.com/OTware/.github/refs/heads/main/profile/Ot-mot.jpg" height="150px" width="150px"><br>
+
+Oh well then… I am Mot, and you are OT.
+Wonderful. OT and Mot are both great names.
+So let’s call OT by OT — and be happy.
