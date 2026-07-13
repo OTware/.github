@@ -1,4 +1,4 @@
-<center>INTERNAL USE LICENSE —  OTware / QuantDavi</center>
+<center>INTERNAL USE LICENSE —  OTware / QuantDavi</center><br>
 -----------------------------------------------</br>
 
       ©️2026 Davi Combs and Joe Bread the AI
